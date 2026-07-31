@@ -16,9 +16,9 @@ I started my software engineering journey through my curiosity about AI and tech
 
 Here are some of the projects I've built while learning and developing my skills:
 
-* **NFT Marketplace** — A marketplace project built to explore digital asset listings and transactions.
+* **[NFT Marketplace](https://nft-marketplace-psi-sandy.vercel.app/)** — A marketplace project built to explore digital asset listings and transactions.
 * **[Rocket Crypto](https://rocket-crypto.vercel.app/)** — Cryptocurrency application using market data APIs to display real-time crypto information and conversions.
-* **[SpotiPlay](https://kentobias.vercel.app/)** — Music application integrating the Spotify API.
+* **[SpotiPlay](https://spotiplay-nine.vercel.app/)** — Music application integrating the Spotify API.
 * **[Oversight](https://oversight-beta.vercel.app/)** — Project management application designed to help users organize and manage their work.
 * **DeDors Collection** — E-commerce platform built with Next.js, TypeScript, Tailwind CSS, Sanity, and Stripe.
 
